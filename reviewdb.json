@@ -1,10 +1,9 @@
-{
+
   [
     {
       id: "1",
       positive: true,
       text: "Mycket bra!",
       author: "Stefan M"
-    },
+    }
   ]
-}
