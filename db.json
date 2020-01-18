@@ -1,8 +1,10 @@
 {
-  "posts": [
+  "reviews": [
     {
       "id": 1,
-      "title": "hello"
+      "positive": "hello",
+      "text": "Den var bra!",
+      "author": "Stefan M."
     }
   ],
   "profile": {
